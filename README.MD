@@ -1,6 +1,6 @@
 <h1><i>Tic Tac Toa Game </i></h1>
 </br>
-<h2>Made By Priyanshu Rautela</h2>
+<h2>Made By vineet harbola </h2>
 </br>
 <h3>HTML,CSS,JAVASCRIPT are involve to made this project</h3>
 </br>
